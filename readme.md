@@ -1,3 +1,5 @@
+![Banner Terraform AWS Odoo Deployment](/imgs/banner.png)
+
 # Terraform AWS Odoo Deployment
 
 Este proyecto utiliza **Terraform** para desplegar una instancia de **Odoo** en **AWS EC2** usando **Docker** con **PostgreSQL** como base de datos.
